@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Integrated BS-M.S. in Physics, IISER Kolkata, 2025 (expected)
+* Higher Secondary, Birbhum Zilla School, 2020
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024: Applications of Heat-Kernel Method in QFT.
+  * IIT Kanpur
+  * Supervisor: Prof. Joydeep Chakrabortty
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023: Electroweak Interactions and Effective Field Theory
+  * IIT Guwahati
+  * Supervisor: Prof. Subhaditya Bhattacharya
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022: Some Topics In Lie Algebra and Field Quantization
+  * IIT Bombay
+  * Supervisor: Prof. Urjit A. Yajnik
   
 Skills
 ======
