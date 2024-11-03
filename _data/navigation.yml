@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-    - title: "Research"
+  - title: "Research"
     url: /markdown/
 
-    - title: "Notes"
+  - title: "Notes"
     url: /teaching/
 
-    - title: "CV"
+  - title: "CV"
     url: /cv/
     
   - title: "Publications"
@@ -20,7 +20,7 @@ main:
   - title: "Talks"
     url: /talks/    
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
   
     
