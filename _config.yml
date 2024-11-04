@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Soumyajit Datta"
 title_separator          : "-"
 name                     : &name "Soumyajit Datta"
 description              : &description "personal description"
 url                      : https://soumya-jit-datta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "soumya-jit-datta/soumya-jit-datta.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   name             : "Soumyajit Datta"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  location         : "India"
+  location         : "Kolkata, India"
   employer         : "IISER Kolkata"
   uri              : # URL
   email            : "sd20ms163@iiserkol.ac.in" 
@@ -339,7 +339,7 @@ tag_archive:
 #     tag: archive-taxonomy
 #   permalinks:
 #     category: /categories/:name/
-#     tag: /tags/:name/
+#     taHomepageg: /tags/:name/
 
 
 # HTML Compression
