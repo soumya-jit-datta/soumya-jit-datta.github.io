@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](https://soumya-jit-datta.github.io/files/Soumyajit_Datta_CV.pdf).
+
 Education
 ======
 * Integrated BS-M.S. in Physics, IISER Kolkata, 2025 (expected)
