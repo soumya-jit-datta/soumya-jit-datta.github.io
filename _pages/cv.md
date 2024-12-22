@@ -30,21 +30,24 @@ Experience
   * IIT Bombay
   * Supervisor: Prof. Urjit A. Yajnik
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Software Skills
+===============
+* Languages
+  * Python
+  * Mathematica
+  * Matlab
+* Tools
+  * LaTeX
+  * Numpy
+  * GNU Plot
+  * FeynRules
 
-Publications
+TAship
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  * PH1201: Electricity and Magnetism (Spring 2023)
+  * CS1101: Introduction to Computer Programming (Fall 2024)
+
+<!---
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -60,3 +63,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+
