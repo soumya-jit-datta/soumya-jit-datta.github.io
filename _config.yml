@@ -21,7 +21,7 @@ repository               : "soumya-jit-datta/soumya-jit-datta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Picture_Soumya.png"
+  avatar           : "profile.jpg"
   name             : "Soumyajit Datta"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
