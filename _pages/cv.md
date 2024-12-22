@@ -32,7 +32,7 @@ Experience
   
 Software Skills
 ===============
-* Languages
+* Languages        ** Tools
   * Python
   * Mathematica
   * Matlab
