@@ -19,20 +19,17 @@ Education
 Experience
 ======
 * May 2024: Applications of Heat-Kernel Method in QFT.
-  * IIT Kanpur
-  * Supervisor: Prof. Joydeep Chakrabortty
+  * Supervisor: Prof. Joydeep Chakrabortty, IIT Kanpur
 
 * May 2023: Electroweak Interactions and Effective Field Theory
-  * IIT Guwahati
-  * Supervisor: Prof. Subhaditya Bhattacharya
+  * Supervisor: Prof. Subhaditya Bhattacharya, IIT Guwahati
 
 * May 2022: Some Topics In Lie Algebra and Field Quantization
-  * IIT Bombay
-  * Supervisor: Prof. Urjit A. Yajnik
+  * Supervisor: Prof. Urjit A. Yajnik, IIT Bombay
   
 Software Skills
 ===============
-* Languages        ** Tools
+* Languages        
   * Python
   * Mathematica
   * Matlab
