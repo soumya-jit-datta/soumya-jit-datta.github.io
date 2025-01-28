@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://soumya-jit-datta.github.io/files/Soumyajit_Datta_CV.pdf).
+You can find my full CV [here](https://soumya-jit-datta.github.io/files/CV_Soumyajit.pdf).
 
 Education
 ======
@@ -38,6 +38,7 @@ Software Skills
   * Numpy
   * GNU Plot
   * FeynRules
+  * MadGraph
 
 TAship
 ======
