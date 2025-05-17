@@ -33,7 +33,7 @@ Software Skills
 <div style="width: 100%; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
 
   <div style="flex: 1; min-width: 200px;">
-    <h4>Languages</h4>
+    <h3>Languages</h3>
     <ul>
       <li>Python</li>
       <li>Mathematica</li>
@@ -42,22 +42,22 @@ Software Skills
   </div>
   
   <div style="flex: 1; min-width: 200px;">
-    <h4>Tools</h4>
+    <h3>Collider Tools</h3>
+    <ul>
+      <li>FeynRules</li>
+      <li>MadGraph</li>
+      <li>MadAnalysis</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    <h3>Tools</h3>
     <ul>
       <li>LaTeX</li>
       <li>NumPy</li>
       <li>Pandas</li>
       <li>Uproot</li>
       <li>Matplotlib</li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1; min-width: 200px;">
-    <h4>Collider Tools</h4>
-    <ul>
-      <li>FeynRules</li>
-      <li>MadGraph</li>
-      <li>MadAnalysis</li>
     </ul>
   </div>
   
