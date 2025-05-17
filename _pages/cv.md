@@ -29,16 +29,40 @@ Experience
   
 Software Skills
 ===============
-* Languages        
-  * Python
-  * Mathematica
-  * Matlab
-* Tools
-  * LaTeX
-  * Numpy
-  * GNU Plot
-  * FeynRules
-  * MadGraph
+
+<div style="width: 100%; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
+
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Languages</h4>
+    <ul>
+      <li>Python</li>
+      <li>Mathematica</li>
+      <li>Matlab</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Tools</h4>
+    <ul>
+      <li>LaTeX</li>
+      <li>NumPy</li>
+      <li>Pandas</li>
+      <li>Uproot</li>
+      <li>Matplotlib</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Collider Tools</h4>
+    <ul>
+      <li>FeynRules</li>
+      <li>MadGraph</li>
+      <li>MadAnalysis</li>
+    </ul>
+  </div>
+  
+</div>
+
 
 TAship
 ======
