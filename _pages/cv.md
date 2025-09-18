@@ -13,7 +13,7 @@ You can find my full CV [here](https://soumya-jit-datta.github.io/files/CV_Soumy
 
 Education
 ======
-* Integrated BS-M.S. in Physics, IISER Kolkata, 2025 (expected)
+* Integrated BS-M.S. in Physics, IISER Kolkata, 2025
 * Higher Secondary, Birbhum Zilla School, 2020
 
 Experience
