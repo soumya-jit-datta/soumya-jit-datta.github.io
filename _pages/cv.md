@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://soumya-jit-datta.github.io/files/CV_Soumyajit.pdf).
+You can find my full CV [here](https://soumya-jit-datta.github.io/files/CV_SoumyajitDatta.pdf).
 
 Education
 ======
