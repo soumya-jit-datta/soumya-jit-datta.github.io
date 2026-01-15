@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://soumya-jit-datta.github.io/files/CV_SoumyajitDatta.pdf).
+You can find my full CV [here](https://soumya-jit-datta.github.io/files/CV_Soumyajit.pdf).
 
 Education
 ======
@@ -56,7 +56,6 @@ Software Skills
       <li>LaTeX</li>
       <li>NumPy</li>
       <li>Pandas</li>
-      <li>Uproot</li>
       <li>Matplotlib</li>
     </ul>
   </div>
