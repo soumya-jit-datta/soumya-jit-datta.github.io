@@ -65,8 +65,8 @@ Software Skills
 
 TAship
 ======
-  * PH1201: Electricity and Magnetism (Spring 2023)
-  * CS1101: Introduction to Computer Programming (Fall 2024)
+  * Electricity and Magnetism (Spring 2023)
+  * Introduction to Computer Programming (Fall 2024)
 
 <!---
 Talks
